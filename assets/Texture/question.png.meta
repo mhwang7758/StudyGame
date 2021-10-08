@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4fdd8523-f0c0-43b8-9c88-e5a590d7bc68",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "question": {
+      "ver": "1.0.4",
+      "uuid": "017b0360-3891-4c04-a32d-cb602c6150bc",
+      "rawTextureUuid": "4fdd8523-f0c0-43b8-9c88-e5a590d7bc68",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
